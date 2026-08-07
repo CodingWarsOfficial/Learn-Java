@@ -1,0 +1,14 @@
+# Ignore everything
+*
+
+# Allow folders
+!*/
+
+# Keep src
+!src/
+!src/**
+
+# Keep repository files
+!.gitignore
+!README.md
+!LICENSE
