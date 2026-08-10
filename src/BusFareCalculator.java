@@ -11,7 +11,7 @@
 
 import java.util.Scanner;
 
-public class BusTicketFareCalculator {
+public class BusFareCalculator {
 
     public static void main(String[] args) {
 
